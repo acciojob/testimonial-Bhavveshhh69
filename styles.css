@@ -1,6 +1,5 @@
-/*  your css code here. If applicable */
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: Arial, sans-serif;
   margin: 0;
   background-color: #ffffff;
 }
@@ -10,10 +9,8 @@ body {
   padding: 50px;
 }
 
-.testimonials h2 {
+h1 {
   margin-bottom: 20px;
-  font-size: 28px;
-  font-weight: 700;
 }
 
 .testimonial {
@@ -23,7 +20,7 @@ body {
   margin-bottom: 20px;
 }
 
-.testimonial p {
+p {
   margin: 0;
   line-height: 1.6;
 }
